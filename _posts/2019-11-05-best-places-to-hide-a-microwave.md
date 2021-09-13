@@ -1,5 +1,13 @@
 ---
 title: Best Places to Hide a Microwave
+header:
+  overlay_image: https://www.solwaveovens.com/media/35063/microwaves-header.jpg
+  caption: "Image credits to [Solwave](https://www.solwaveovens.com/)"
+ categories:
+  - Pizza
+ tags:
+  - microwaves
+  - hiding
 ---
 Hi there fellow microwave hiders! Today, I, Duber McDonald, would like to share with you some of the best tips on how to hide a microwave!
 
